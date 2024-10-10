@@ -1,0 +1,7 @@
+# ignore following files
+.gitignore
+.dockerignore
+*.md
+.git
+.cache
+node_modules
